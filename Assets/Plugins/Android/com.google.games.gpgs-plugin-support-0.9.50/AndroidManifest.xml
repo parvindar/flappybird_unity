@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.games.bridge"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <!--  version name changed from 0.9.50 to 1.0 -->
+    <!-- changed from 14 to 16 -->
+    <uses-sdk android:minSdkVersion="16" />
+
+    <application />
+
+</manifest>
